@@ -1,0 +1,81 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Menu principal ============ */
+
+/** Menu principal >> btn professor **/
+#menu-item-90 .menu-link {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(84, 104, 205) !important;
+	background-image: linear-gradient(90deg, rgb(35, 109, 212), rgba(0, 0, 0, 0), rgb(101, 100, 199)) !important;
+	height: 55px !important;
+	padding-right: 20px !important;
+	padding-left: 20px !important;
+	border-radius: 100px !important;
+}
+
+/** Menu principal >> btn aluno **/
+#menu-item-91 .menu-link {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(84, 104, 205) !important;
+	background-image: linear-gradient(90deg, rgb(35, 109, 212), transparent, rgb(101, 100, 199)) !important;
+	height: 55px !important;
+	padding-right: 25px !important;
+	padding-left: 25px !important;
+	margin-left: 20px !important;
+	border-radius: 100px !important;
+}
+
+/** Menu principal >> Sou aluno(:hover) **/
+#menu-item-91 .menu-link:hover {
+	background-image: linear-gradient(90deg, rgba(101, 100, 199, 0.7), rgba(35, 109, 212, 0.4) 40%, rgba(255, 255, 255, 0.3)) !important;
+}
+
+/** Menu principal >> Sou Professor (:hover) **/
+#menu-item-90 a:hover {
+	background-image: linear-gradient(90deg, rgba(101, 100, 199, 0.7), rgba(35, 109, 212, 0.4) 40%, rgba(255, 255, 255, 0.3)) !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> rodapé **/
+#colophon .ast-builder-grid-row-tablet-full {
+	height: 60px !important;
+}
+
+/** Rodapé >> font rodapé **/
+#colophon p {
+	font-family: Open Sans !important;
+	font-weight: 100 !important;
+}
+
+
+/*( < 1200 )*/
+@media (max-width: 1199.98px) {
+
+	/*= Menu principal ============ */
+
+	/** Menu principal >> btn professor **/
+	#menu-item-90 .menu-link {
+	height: 45px !important;
+}
+
+	/** Menu principal >> btn aluno **/
+	#menu-item-91 .menu-link {
+	height: 45px !important;
+}
+
+	/** Menu principal >> Sou aluno(:hover) **/
+	#menu-item-91 .menu-link:hover {
+	
+}
+
+	/** Menu principal >> Sou Professor (:hover) **/
+	#menu-item-90 a:hover {
+	
+}
+
+
+}
+

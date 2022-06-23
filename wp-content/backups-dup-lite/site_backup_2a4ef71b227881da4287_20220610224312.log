@@ -1,0 +1,87 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 10 de June de 2022 22:43
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.6
+WORDPRESS:	6.0
+PHP INFO:	8.1.4 | SAPI: apache2handler
+SERVER:		Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 58MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+TABLES: total:51 | filtered:0 | create:51
+FILTERED: []
+SQL CREATED: site_backup_2a4ef71b227881da4287_20220610224312_database.sql
+SQL FILE SIZE: 49.81MB (52234690)
+SQL FILE TIME: 2022-06-10 22:43:40
+SQL RUNTIME: 18.15 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/Vertic
+ARCHIVE FILE: site_backup_2a4ef71b227881da4287_20220610224312_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	138.29MB
+STATS:	Dirs 1,001 | Files 5,282
+SQL ADDED: site_backup_2a4ef71b227881da4287_20220610224312_database.sql
+ZipArchive Object
+(
+    [lastId] => 6282
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6283
+    [filename] => C:\xampp\htdocs\Vertic\wp-content\backups-dup-lite\tmp\site_backup_2a4ef71b227881da4287_20220610224312_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6282
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 43.66MB
+ARCHIVE RUNTIME: 94.75 sec.
+MEMORY STACK: 62MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/Vertic/wp-content/backups-dup-lite/tmp/site_backup_2a4ef71b227881da4287_20220610224312_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 49.81MB
+INSTALLER FILE: 64.59KB
+ARCHIVE FILE: 44.69MB 
+EXPECTED FILE/DIRECTORY COUNT: 6,283
+ACTUAL FILE/DIRECTORY COUNT: 6,282
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[4]
+TOTAL PROCESS RUNTIME: 114.59 sec.
+PEAK PHP MEMORY USED: 64MB
+DONE PROCESSING => site_backup 10 de June de 2022 22:45
+

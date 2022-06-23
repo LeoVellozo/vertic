@@ -1,0 +1,152 @@
+/**
+Theme Name: Astra Child
+Author: Brainstorm Force
+Author URI: http://wpastra.com/about/
+Description: Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with schema.org code integrated so search engines will love your site. Astra offers plenty of sidebar options and widget areas giving you a full control for customizations. Furthermore, we have included special features and templates so feel free to choose any of your favorite page builder plugin to create pages flexibly. Some of the other features: # WooCommerce Ready # Responsive # Compatible with major plugins # Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and beautiful theme!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra-child
+Template: astra
+*/
+
+#content>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b4c498.elementor-section-full_width.elementor-section-stretched.elementor-section-height-default.elementor-section-height-default>div>div>div>section {
+    padding-left: 15%;
+}
+
+.elementor-11 .elementor-element.elementor-element-3378012 .eael-creative-button:hover {
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #6564C7 0%, #236DD4C4 65%);
+}
+
+.elementor-11 .elementor-element.elementor-element-684c60c .eael-creative-button:hover {
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #6564C7 0%, #236DD4C4 65%);
+}
+
+.elementor-11 .elementor-element.elementor-element-5238a3f .elementor-button:hover {
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #6564C7 0%, #236DD4C4 65%);
+}
+
+@media (max-width:1742px) {
+    nav ul li a {
+        font-size: 28px !important;
+    }
+    #ast-desktop-header>div>div>div {
+        padding-right: 0px !important;
+    }
+}
+
+@media (max-width:1673px) {
+    #ast-hf-menu-1 {
+        margin-left: 0px;
+    }
+}
+
+@media (max-width:1592px) {
+    #menu-item-91>a {
+        margin-left: 10px;
+    }
+    #ast-desktop-header>div>div>div {
+        padding-right: 0px;
+    }
+    nav ul li a {
+        font-size: 26px !important;
+    }
+}
+
+@media (max-width:1483px) {
+    .ast-hfb-header .site-header {
+        margin-left: 10%;
+    }
+    #content>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b4c498.elementor-section-full_width.elementor-section-stretched.elementor-section-height-default.elementor-section-height-default>div>div>div>section {
+        padding-left: 10%;
+    }
+}
+
+@media (max-width:1433px) {
+    .ast-hfb-header .site-header {
+        margin-left: 7%;
+    }
+}
+
+@media (max-width:1388px) {
+    .ast-hfb-header .site-header {
+        margin-left: 5%;
+    }
+}
+
+@media (max-width:1366px) {
+    #masthead {
+        margin-left: 10px;
+    }
+    #content>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b4c498.elementor-section-full_width.elementor-section-stretched.elementor-section-height-default.elementor-section-height-default>div>div>div>section {
+        padding-left: 2%;
+    }
+    .elementor-11 .elementor-element.elementor-element-5940a77>.elementor-widget-container {
+        padding: 25px 180px 0px 0px;
+    }
+}
+
+@media (max-width:1302px) {
+    #masthead {
+        margin-left: 0px;
+    }
+    nav ul li a {
+        font-size: 24px !important;
+    }
+}
+
+@media (max-width:1232px) {
+    .ast-builder-menu-1 .menu-item>.menu-link {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width:1203px) {
+    .ast-builder-menu-1 .menu-item>.menu-link {
+        padding-left: 10px;
+    }
+}
+
+@media (max-width:1172px) {
+    .ast-builder-menu-1 .menu-item>.menu-link {
+        padding-right: 10px;
+    }
+}
+
+@media (max-width:1130px) {
+    nav ul li a {
+        font-size: 22px !important;
+    }
+    header .custom-logo-link img {
+        max-width: 168px;
+    }
+}
+
+@media (max-width:1023px) {
+    #ast-desktop-header {
+        display: none;
+    }
+    #ast-mobile-header {
+        display: block;
+    }
+    .ast-primary-header-bar {
+        border-bottom-width: 0px;
+    }
+    #content>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b4c498.elementor-section-full_width.elementor-section-stretched.elementor-section-height-default.elementor-section-height-default>div>div>div>section {
+        padding-left: 0%;
+    }
+    #masthead .ast-mobile-header-wrap .ast-primary-header-bar,
+    #masthead .ast-mobile-header-wrap .ast-below-header-bar {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width:991px) {
+    .termos-politica {
+        text-align: center !important;
+    }
+}
